@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { cn } from "@/lib/utils";
+import { cn } from "../Lib/utils";
 import { X, Menu } from "lucide-react";
 
 const navItems = [
